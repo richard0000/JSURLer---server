@@ -1,0 +1,1 @@
+export * as LinksController from './links.controller.js'
